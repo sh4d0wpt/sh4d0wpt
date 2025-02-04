@@ -6,7 +6,6 @@
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb4WKlx8uKgy8Vy_gewQZ9A)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tomaspt25)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sh4d0wptt)
 
 ![Sh4d0wPT GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4d0wpt&show_icons=true&theme=radical)
