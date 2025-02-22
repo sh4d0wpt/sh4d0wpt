@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF3535&width=435&lines=By+Sh4d0wPT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FF3535&width=435&lines=By+Sh4d0wPT)]([https://git.io/typing-svg](https://discord.gg/uYUn9eQpMj))
 
 
 ## Olá! Eu sou o Sh4d0wPT 🖐️
