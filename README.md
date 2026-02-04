@@ -2,15 +2,6 @@
 
 <div align="center">
   
-  ### 📊 GitHub Stats
-  
-  ![Sh4d0wPT's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh4d0wpt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh4d0wpt&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=sh4d0wpt&theme=radical)
-  
-</div>
 
 ---
 
@@ -43,8 +34,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb4WKlx8uKgy8Vy_gewQZ9A)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sh4d0wptt)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYUn9eQpMj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ---
 
