@@ -1,71 +1,147 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3535&center=true&vCenter=true&width=500&lines=👋+Hello!+I'm+Sh4d0wPT;🚀+Full+Stack+Developer;🤖+Discord+Bots+%26+Web+Dashboards;💻+Open+Source+Enthusiast" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a1010,100:ff3535&height=220&section=header&text=Sh4d0wPT&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Discord%20Bots%20%E2%80%A2%20Web%20Dashboards&descSize=18&descAlignY=60" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF3535&center=true&vCenter=true&width=600&height=40&lines=👋+Hello!+I'm+Sh4d0wPT;🚀+I+build+things+for+the+web;🤖+Discord+bots+%26+dashboards;💻+Open+source+enthusiast" alt="Typing SVG" />
+
 <br/>
-[![Twitch](https://img.shields.io/badge/Twitch-sh4d0wptt-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sh4d0wptt)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb4WKlx8uKgy8Vy_gewQZ9A)
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYUn9eQpMj)
- 
-![Profile Views](https://komarev.com/ghpvc/?username=sh4d0wpt&color=ff3535&style=flat-square&label=Profile+views)
-![Followers](https://img.shields.io/github/followers/sh4d0wpt?style=flat-square&color=ff3535&label=Followers)
- 
+
+<a href="https://www.twitch.tv/sh4d0wptt"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<a href="https://www.youtube.com/channel/UCb4WKlx8uKgy8Vy_gewQZ9A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.gg/uYUn9eQpMj"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sh4d0wpt&color=ff3535&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+<img src="https://img.shields.io/github/followers/sh4d0wpt?style=flat-square&color=ff3535&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/sh4d0wpt?style=flat-square&color=ff3535&labelColor=0d1117&label=STARS" alt="Stars" />
+
 </div>
----
- 
-## 👨‍💻 About Me
- 
-- 🔭 I build **Discord bots** (discord.js), **web dashboards** and full stack apps
-- 🛠️ Focused on moderation tools, automation and clean, maintainable code
-- 🌱 Always learning: currently improving my skills in React, Node.js and system design
-- 🎮 I also stream on Twitch and create content on YouTube
-- 🤝 Open to collaborate on open source projects
----
- 
-## 🛠️ Tech Stack
- 
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3535,100:0d1117&height=3&section=header" width="100%" alt="divider" />
+
+## 👨‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```js
+const sh4d0wpt = {
+  role: "Full Stack Developer",
+  focus: ["Discord bots", "Web dashboards", "Automation"],
+  currently: "Leveling up React, Node.js & system design",
+  streams: "twitch.tv/sh4d0wptt",
+  openTo: "Open source collabs 🤝",
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+- 🔭 Building moderation tools & bots
+- 🌱 Always learning something new
+- 🎮 Streamer & content creator
+- ⚡ Clean, maintainable code
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3535,100:0d1117&height=3&section=header" width="100%" alt="divider" />
+
+## 🛠️ &nbsp;Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,mongodb,mysql,git,github,vscode&perline=6" alt="Tech stack" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py&theme=dark&perline=7" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,discord&theme=dark&perline=6" alt="Databases and tools" />
+
 </div>
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React |
-| **Backend** | Node.js, Express, Python |
-| **Databases** | MongoDB, MySQL |
-| **Bots** | discord.js, Discord API |
-| **Tools** | Git, GitHub, VS Code |
- 
----
- 
-## 📌 Featured Projects
- 
-> Replace the links below with your own repositories.
- 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🛡️ **[Moderation Bot + Dashboard](https://github.com/sh4d0wpt/REPO-NAME)** | Moderation bot with tickets, suggestions, logs, AutoMod and a web dashboard for configuration | `Node.js` `discord.js` `Express` |
-| 🎮 **[GTA Online Bot](https://github.com/sh4d0wpt/REPO-NAME)** | Automatic Rockstar Newswire updates, weekly promotions and daily Gun Van location | `Node.js` `discord.js` |
-| 🔴 **[Streamer Community Bot](https://github.com/sh4d0wpt/REPO-NAME)** | Social commands, welcome/goodbye messages and a TikTok live watcher | `Node.js` `discord.js` |
- 
----
- 
-## 📊 GitHub Stats
- 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3535,100:0d1117&height=3&section=header" width="100%" alt="divider" />
+
+## 📌 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🛡️ Moderation Bot
+**+ Web Dashboard**
+
+Tickets, suggestions, logs, AutoMod and full configuration through a web dashboard.
+
+`Node.js` `discord.js` `Express`
+
+[**View project →**](https://github.com/sh4d0wpt/REPO-NAME)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎮 GTA Online Bot
+
+Automatic Rockstar Newswire updates, weekly promotions and the daily Gun Van location.
+
+`Node.js` `discord.js`
+
+[**View project →**](https://github.com/sh4d0wpt/REPO-NAME)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🔴 Community Bot
+
+Social commands, welcome and goodbye messages, and a TikTok live watcher.
+
+`Node.js` `discord.js`
+
+[**View project →**](https://github.com/sh4d0wpt/REPO-NAME)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>🔧 Replace <code>REPO-NAME</code> with your real repository names.</sub></div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3535,100:0d1117&height=3&section=header" width="100%" alt="divider" />
+
+## 📊 &nbsp;GitHub Stats
+
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sh4d0wpt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4d0wpt&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh4d0wpt&theme=radical&hide_border=true" alt="GitHub streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=sh4d0wpt&theme=radical&row=1&column=6&no-frame=true&no-bg=true" alt="Trophies" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sh4d0wpt&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff3535&icon_color=ff3535&text_color=c9d1d9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4d0wpt&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3535&text_color=c9d1d9" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sh4d0wpt&hide_border=true&background=0d1117&ring=ff3535&fire=ff3535&currStreakLabel=ff3535&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sh4d0wpt&theme=radical&row=1&column=6&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
+
 </div>
----
- 
-## 📈 Recent Activity
- 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3535,100:0d1117&height=3&section=header" width="100%" alt="divider" />
+
+## 📈 &nbsp;Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
- 
----
- 
+
+<br/>
+
 <div align="center">
-**💬 Got an idea or want to collaborate? Reach out on [Discord](https://discord.gg/uYUn9eQpMj) or drop by the [stream](https://www.twitch.tv/sh4d0wptt)!**
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3535&height=100&section=footer" alt="Footer" />
+
+### 💬 Got an idea or want to collaborate?
+
+<a href="https://discord.gg/uYUn9eQpMj"><img src="https://img.shields.io/badge/Talk%20to%20me%20on%20Discord-ff3535?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.twitch.tv/sh4d0wptt"><img src="https://img.shields.io/badge/Catch%20me%20live%20on%20Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=ff3535" alt="Twitch" /></a>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3535,50:7a1010,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
